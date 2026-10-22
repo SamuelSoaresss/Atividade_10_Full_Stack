@@ -20,9 +20,9 @@ O contrato que define como cliente e servidor conversam nesta rota:
 * **Evidência B (Interface e Swagger rodando):** 
   ![Evidência B](./img/Evidencia_B.png)
 * **Evidência C (Sucesso 201):** 
-  ![Evidência 201](./img/Evidencia C-1.png)
+  ![Evidência 201](./img/Evidencia_C-1.png)
 * **Evidência C (Erro 422):** 
-  ![Evidência 422](./img/Evidencia C-2.png)
+  ![Evidência 422](./img/Evidencia_C-2.png)
 
 ## 3. Alterações Realizadas (Parte D)
 Tabela detalhando os arquivos alterados para a implementação do campo `quantidade_alunos`:
